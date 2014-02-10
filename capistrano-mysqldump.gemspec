@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email = "alex.farrill@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
-    "README"
+    "README.md"
   ]
   s.files = `git ls-files`.split($/)
   s.homepage = "http://github.com/alexfarrill/capistrano-mysqldump"
